@@ -13,6 +13,7 @@ Each post covers an architecture commonly used by big tech companies and frequen
 |-----|-------------|------|------|
 | [Day 01](./architectures/day-01-url-shortener.md) | URL Shortener (Bit.ly / TinyURL) | `#hashing` `#caching` `#databases` `#scalability` | Apr 02, 2026 |
 | [Day 02](./architectures/day-02-distributed-cache.md) | Distributed Cache (Redis / Memcached) | `#cache` `#redis` `#distributed-systems` `#consistency` | Apr 03, 2026 |
+| [Day 03](./architectures/day-03-news-feed-timeline.md) | News Feed / Timeline (Instagram / Twitter) | `#newsfeed` `#fanout` `#timeline` `#scalability` | Apr 07, 2026 |
 
 ---
 
@@ -20,7 +21,6 @@ Each post covers an architecture commonly used by big tech companies and frequen
 
 | Day | Architecture |
 |-----|-------------|
-| Day 03 | News Feed / Timeline (Instagram / Twitter) |
 | Day 04 | Rate Limiter |
 | Day 05 | Notification System |
 | Day 06 | Search Autocomplete |
